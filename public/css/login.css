@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap');
+
+body {
+    background-color: crimson;
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+
+#white-box {
+    background-color: white;
+    height: 655px;
+
+}
+
+.login-group {
+    width: 70%;
+}
+
+#logo-login {
+    width: 70%;
+}
+
+.login-btn {
+    background-color: rgb(220, 10, 10);
+    color: white;
+}
+
+.login-btn:hover {
+    background-color: rgb(255, 44, 44);
+    color: white;
+}
+
+.text {
+    color: white;
+}
+
+.img-login {
+    width: 80%;
+    padding-left: 40px;
+}
+
+@media screen and (max-width: 765px) {
+    .text {
+        color: white;
+        display: none;
+    }
+
+    .img-login {
+        width: 80%;
+        display: none;
+    }
+
+}

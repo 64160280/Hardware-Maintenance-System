@@ -1,0 +1,164 @@
+.btn {
+    background-color: none; /* Blue background */
+    border: none; /* Remove borders */
+    color: rgb(0, 0, 0); /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+ิ.btn-light{
+  border: 10px;
+  border-radius: 30px;
+  width: 1000px;
+}
+
+
+.content{
+
+  width: 1400px;
+  background-color: aqua;
+}
+
+.h{
+  font-size: 36px;
+}
+
+.form-select{
+  width: 100px;
+
+}
+
+.dropdown{
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+.h_t{
+    background-color: rgb(190, 4, 4); /* Blue background */
+    border: none; /* Remove borders */
+    margin-left: -40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color :rgb(255, 255, 255); /* White text */
+  }
+
+.content{
+  background-color: white;
+  right: 0%;
+  width: 80%;
+}
+
+.btn_drow{
+  background-color: white; /* Blue background */
+  border-color: rgb(0, 0, 0) ; /* Remove borders */
+
+  /* text-shadow: none; */
+}
+
+.table{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 1550px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 15px;
+  }
+
+ .row_tb{
+  height: 5px;
+ }
+
+.bg_status{
+  color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 30px;
+
+}
+
+.modal_2{
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 10px;
+  width: 600px;
+  margin-top: 15px;
+  padding-top: 15px;
+}
+
+.modal_row_2{
+  padding-left: 50px;
+  display: flex;
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.modal_text_2{
+  width: 250px;
+  display: flex;
+}
+
+.modal_input_2{
+  width: 300px;
+  height: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding: auto;
+}
+
+.modal_inputArea_2{
+  width: 300px;
+  height: 100px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding: auto;
+}
+
+.modal_3{
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 10px;
+  width: 300px;
+  margin-top: 15px;
+  padding-top: 15px;
+}
+
+.check-circle{
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(13, 234, 76);
+}
+.x-circle{
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(234, 13, 13);
+}
+.list-mf{
+display: flex;
+padding-top: 20px  ;
+
+}
+
+
+
+
+
+
+
